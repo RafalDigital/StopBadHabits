@@ -9,6 +9,7 @@ V1:
 - Sistem catatan dengan fitur CRUD (Create, Read, Update, Delete)
 - Fitur chart yang memudahkan pengguna melacak keberhasilan dan kegagalan, dan bisa juga sebagai sumber motivasi.
 - Fitur kalender absen untuk mendokumentasikan keberhasilan dan kegagalan harian.
+- Belum responsive direkomendasikan digunakan di handphone
 
 ## Lisensi
 Repo ini dilindungi oleh lisensi custom. Hanya boleh digunakan sebagai referensi, tidak boleh dipakai atau dimodifikasi.
@@ -22,8 +23,7 @@ V1:
 - Note-taking system with CRUD (Create, Read, Update, Delete) features.
 - Chart feature that makes it easy for users to track successes and failures, and can also serve as a source of motivation.
 - Absence calendar feature to document daily successes and failures.
-
-Translated with DeepL.com (free version)
+- Not yet responsive, recommended for use on mobile phones
 
 ## License
 This repository is protected by a custom license. It may only be used as a reference and may not be used or modified.
