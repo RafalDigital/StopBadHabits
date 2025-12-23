@@ -1,6 +1,7 @@
 # Stop-Bad-Habits
 
 (Indonesia)
+
 StopBadHabits adalah platform berbasis web yang dirancang untuk membantu pengguna menghentikan kebiasaan buruk secara konsisten. Fokus utama aplikasi ini adalah pelacakan kemajuan harian dan pemberian motivasi berkelanjutan.
 
 V1:
@@ -15,6 +16,7 @@ V1:
 Repo ini dilindungi oleh lisensi custom. Hanya boleh digunakan sebagai referensi, tidak boleh dipakai atau dimodifikasi.
 
 (English)
+
 StopBadHabits is a web-based platform designed to help users consistently break bad habits. The primary focus of this application is tracking daily progress and providing continuous motivation.
 
 V1:
